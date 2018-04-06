@@ -36,31 +36,18 @@ Version=12.53
 
 [TulipAddins]
 Database=
-Delphi=
 File Content=
 Flex=
 Insight=
 Java=
 Mobile=
-Oracle=
-PeopleSoft=
-PowerBuilder=
-Qt=
-SAP NWBC Desktop=
 SAP=
 SAPUI5=
 SAPWDJ=
-Siebel=
-Silverlight=
 Windows Applications=
-Stingray=
 TEA=
-Terminal Emulators=
 UI Automation=
-VisualAge Smalltalk=
-Visual Basic=
 Web=
-WPF=
 XML=
 
 [ExtraFiles]
